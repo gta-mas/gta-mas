@@ -4,7 +4,21 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Trust & Safety Analyst
 ----------------------
 
-I have been working as a Trust & Safety Analyst at Accenture for the past two years. Recently, I discovered a passion for the field of IT, specifically Security (Pen) Testing and Cybersecurity in general. Hence I began a course for Software Tester via the Sofware Development Academy. Besides this course I have taken up another course via the udemy learning platform. This course is called "Web Security & Bug Bounty: Learn Penetration Testing in 2023" and I am beyond happy to have the opportunity to study these subjects. Once I finish my main course, i.e. Software Tester, I will start looking for job opportunities in this field. I realize this is not something one might simply start doing after completing only one 4 month course and that is why I have the ambition to learn more in depth to hopefully impress any employer or recruiter that is looking for a Junior Software Tester role. Some of my characteristics are: discpiline, due diligence, being on time, ability to learn, patience. With these I am confident that in time, I will join the ever growing IT community and be a part of something great! Thank you for taking the time to read this.
+I have been working as a Trust & Safety Analyst at Accenture for the past two years. Recently, I discovered a passion for the field of IT, specifically Security (Pen) Testing and Cybersecurity in general. Hence I began a course for Software Tester via the Sofware Development Academy (based in Warsaw). Upon its completion in the summer of 2023 I have taken up other courses via the Udemy e-learning platform. 
+
+Courses I completed thusfar are:
+"Software Tester" by Software Development Academy
+"Selenium Webdriver with PYTHON from Scratch + Frameworks" by Udemy
+"Web Security & Bug Bounty: Learn Penetration Testing in 2023" by Udemy
+
+Courses in progress:
+CompTIA A+
+Python 101
+"Learn SQL +Security(pen) testing from Scratch" by Udemy
+
+Some of my characteristics are: discpiline, due diligence, punctionality, ability to learn, patience, teamwork. With these I am confident that, in time, I will join the ever-growing IT community and be a part of something special! 
+
+Thank you for taking the time to read this.
 
 * 🌍  I'm based in Warsaw
 * ✉️  You can contact me at [gabriel.tamas11@proton.me](mailto:gabriel.tamas11@proton.me)
